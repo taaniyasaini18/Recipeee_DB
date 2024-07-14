@@ -2,11 +2,11 @@
   "name": "json_api_creation",
   "version": "1.0.0",
   "description": "",
-  "main": "db.json",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve-json": "json-server --watch db.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "",
