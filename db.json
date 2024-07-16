@@ -3,7 +3,6 @@
     {
         "id": 1,
         "title" : "chat Masala",
-        "icon" : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7ZecuyuEQeqjurAjUK17a1VAGrNk-mlHOg&s,
         "Ingrediants" : [
             "chickpeas" , "Garam masala and red chilli powder" , "Other ground spices" , "Kasthuri Methi" , "Amchur" , "Whole spices"
         ]
@@ -12,7 +11,7 @@
     {
         "id" : 2,
         "title": "Paneer Makhani",
-      "icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7ZecuyuEQeqjurAjUK17a1VAGrNk-mlHOg&s",
+     
         "Ingrediants":[
             "16-18 cashewnuts" , "2 1/2 cups of tomato" , "2 cups paneer" , "1 to 2 tablespoon butter" , "2 green cardamoms" , "1 inch cinnamon piece"
         ]
@@ -20,7 +19,7 @@
     {
         "id":3 , 
         "title" : "Aloo Gobhi",
-      "icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7ZecuyuEQeqjurAjUK17a1VAGrNk-mlHOg&s",
+     
         "Ingrediants" : [
             "2 tablespoon of oil" , " 1/2 teasponn cumin seeds" ,"3 green cardamoms" , " 1 cup fine chopped onions" , " 2 cup tomato puree" , "1 teaspoon ginger grated" , " 1 teaspoon garlic minced" 
         ]
@@ -29,7 +28,7 @@
     {
         "id" : 4,
         "title": "upma",
-      "icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7ZecuyuEQeqjurAjUK17a1VAGrNk-mlHOg&s",
+      
         "Ingrediants" : [
             "oil" , "ghee", "whole spices" , "fresh Ginger" , "Onion" , "green chilly", "lentils", "Hing"
         ]
@@ -37,7 +36,7 @@
     {
         "id": 5,
         "title" : "samosa",
-      "icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7ZecuyuEQeqjurAjUK17a1VAGrNk-mlHOg&s",
+     
         "Ingrediants": [
             "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
         ]
