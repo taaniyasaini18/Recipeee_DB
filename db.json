@@ -40,6 +40,86 @@
         "Ingrediants": [
             "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
         ]
+    },
+    {
+        "id": 6,
+        "title" : "Butter Chicken",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 7,
+        "title" : "Kerala paratha",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 8,
+        "title" : "Garlic bread",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 9,
+        "title" : "Grilled cheese sandwhich",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 10,
+        "title" : "Rawa Dosa",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 11,
+        "title" : "Uttapam",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 12,
+        "title" : "Maggie",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 13,
+        "title" : "Pav Bhaji",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 14,
+        "title" : "Kathi roll",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
+    },
+    {
+        "id": 15,
+        "title" : "Methi Aloo",
+     
+        "Ingrediants": [
+            "2 cups all purpose flour" , "1/2 cup oil" , " 6 tablespoon water", "3/4 teaspoon cardamom" , "3/4 teaspoon salt " , "Mashed potatoes" , "1/2 cup peas" , "Onion" , "whole spices"
+        ]
     }
   ]
 }
